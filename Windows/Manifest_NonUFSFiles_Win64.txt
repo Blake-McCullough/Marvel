@@ -1,7 +1,6 @@
 Engine/Binaries/Win64/EOSSDK-Win64-Shipping.dll	2026-06-12T12:55:06.798Z
 Marvel/Binaries/Win64/D3D12/D3D12Core.dll	2026-06-12T12:55:02.626Z
-Marvel/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2026-06-12T12:55:02.806Z
-Marvel/Binaries/Win64/Marvel.exe	2026-06-17T06:33:49.512Z
+Marvel/Binaries/Win64/Marvel-Win64-Shipping.exe	2026-06-17T10:09:24.479Z
 Marvel/Binaries/Win64/OpenImageDenoise.dll	2026-06-12T13:03:13.601Z
 Marvel/Binaries/Win64/tbb.dll	2026-06-12T12:54:55.301Z
 Marvel/Binaries/Win64/tbb12.dll	2026-06-12T13:03:12.428Z
@@ -13,7 +12,6 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2026-06-12T12:54:58.151Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2026-06-12T12:55:02.532Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2026-06-12T12:55:02.532Z
-Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2026-06-12T12:55:02.918Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-06-12T12:55:02.918Z
 Engine/Content/Slate/Cursor/invisible.cur	2026-06-12T12:56:34.930Z
-Marvel.exe	2026-06-17T06:34:10.018Z
+Marvel.exe	2026-06-17T13:55:41.768Z
