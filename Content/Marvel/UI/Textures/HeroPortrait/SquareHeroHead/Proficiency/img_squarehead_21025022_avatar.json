@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "img_squarehead_21025022_avatar",
+    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/Marvel/UI/Textures/HeroPortrait/SquareHeroHead/Proficiency/img_squarehead_21025022_avatar",
+    "Properties": {
+      "ImportedSize": {
+        "X": 200,
+        "Y": 200
+      },
+      "LightingGuid": "E1F8BBBF-4B9A51EC-CC694495-A981248C",
+      "CompressionSettings": "TextureCompressionSettings::TC_BC7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 134,
+    "SizeY": 134,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 18496,
+          "SizeOnDisk": 18496,
+          "OffsetInFile": "0x76"
+        },
+        "SizeX": 134,
+        "SizeY": 134,
+        "SizeZ": 1
+      }
+    ]
+  }
+]
