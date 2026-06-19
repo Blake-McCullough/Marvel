@@ -1,16 +1,17 @@
 [
   {
     "Type": "Texture2D",
-    "Name": "T_1059501_Hair_01_ID",
-    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Name": "T_1059501_Hair_01_D",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'Texture2D'",
-    "Package": "/Game/Marvel/Characters/1059/1059501/Textures/T_1059501_Hair_01_ID",
+    "Package": "/Game/Marvel/Characters/1059/1059501/Textures/T_1059501_Hair_01_D",
     "Properties": {
       "ImportedSize": {
-        "X": 4096,
-        "Y": 4096
+        "X": 2048,
+        "Y": 2048
       },
-      "LightingGuid": "2791856C-46061603-9C5AB2AC-92776491",
+      "LightingGuid": "8BF2751B-449D05CC-C1E551B1-2EC4BF35",
+      "CompressionSettings": "TextureCompressionSettings::TC_BC7",
       "LODGroup": "TextureGroup::TEXTUREGROUP_Character"
     },
     "SizeX": 1024,
@@ -68,7 +69,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 2048,
           "SizeOnDisk": 2048,
-          "OffsetInFile": "0xB1"
+          "OffsetInFile": "0xB4"
         },
         "SizeX": 64,
         "SizeY": 64,
@@ -79,7 +80,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 512,
           "SizeOnDisk": 512,
-          "OffsetInFile": "0x8C1"
+          "OffsetInFile": "0x8C4"
         },
         "SizeX": 32,
         "SizeY": 32,
@@ -90,7 +91,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 128,
           "SizeOnDisk": 128,
-          "OffsetInFile": "0xAD1"
+          "OffsetInFile": "0xAD4"
         },
         "SizeX": 16,
         "SizeY": 16,
@@ -101,7 +102,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 32,
           "SizeOnDisk": 32,
-          "OffsetInFile": "0xB61"
+          "OffsetInFile": "0xB64"
         },
         "SizeX": 8,
         "SizeY": 8,
@@ -112,7 +113,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 8,
           "SizeOnDisk": 8,
-          "OffsetInFile": "0xB91"
+          "OffsetInFile": "0xB94"
         },
         "SizeX": 4,
         "SizeY": 4,
@@ -123,7 +124,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 8,
           "SizeOnDisk": 8,
-          "OffsetInFile": "0xBA9"
+          "OffsetInFile": "0xBAC"
         },
         "SizeX": 2,
         "SizeY": 2,
@@ -134,7 +135,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 8,
           "SizeOnDisk": 8,
-          "OffsetInFile": "0xBC1"
+          "OffsetInFile": "0xBC4"
         },
         "SizeX": 1,
         "SizeY": 1,
