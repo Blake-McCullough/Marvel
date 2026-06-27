@@ -1,18 +1,26 @@
 [
   {
     "Type": "Texture2D",
-    "Name": "icon_104701",
-    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Name": "icon_103571",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'Texture2D'",
-    "Package": "/Game/Marvel/UI/Textures/Ability/1047/icon_104701",
+    "Package": "/Game/Marvel/UI/Textures/Ability/1035/icon_103571",
     "Properties": {
       "ImportedSize": {
         "X": 128,
         "Y": 128
       },
-      "LightingGuid": "FBEAC057-4830B515-4E55849D-AD52C6F8",
+      "LightingGuid": "3DD811C9-45C663F2-6564F4B8-0C274DD2",
       "CompressionSettings": "TextureCompressionSettings::TC_BC7",
-      "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "DownscaleOptions": "ETextureDownscaleOptions::Sharpen5",
+      "NeverStream": true
     },
     "SizeX": 86,
     "SizeY": 86,
@@ -25,7 +33,7 @@
           "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
           "ElementCount": 7744,
           "SizeOnDisk": 7744,
-          "OffsetInFile": "0x73"
+          "OffsetInFile": "0x7F"
         },
         "SizeX": 86,
         "SizeY": 86,
