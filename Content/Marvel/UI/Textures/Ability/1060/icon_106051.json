@@ -1,16 +1,16 @@
 [
   {
     "Type": "Texture2D",
-    "Name": "icon_105261",
+    "Name": "icon_106051",
     "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'Texture2D'",
-    "Package": "/Game/Marvel/UI/Textures/Ability/1052/icon_105261",
+    "Package": "/Game/Marvel/UI/Textures/Ability/1060/icon_106051",
     "Properties": {
       "ImportedSize": {
         "X": 128,
         "Y": 128
       },
-      "LightingGuid": "4108C706-49C5A040-0F3A09B7-838582F6",
+      "LightingGuid": "FECF1F49-4650140B-15E15396-408B9E90",
       "CompressionSettings": "TextureCompressionSettings::TC_BC7",
       "LODGroup": "TextureGroup::TEXTUREGROUP_UI"
     },
