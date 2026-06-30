@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "icon_102991_1",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'Texture2D'",
+    "Package": "/Game/Marvel/UI/Textures/Ability/1029/icon_102991_1",
+    "Properties": {
+      "ImportedSize": {
+        "X": 256,
+        "Y": 256
+      },
+      "LightingGuid": "C8D797FB-4B5C90C9-9EB1A39C-C64500C5",
+      "CompressionSettings": "TextureCompressionSettings::TC_BC7",
+      "LODGroup": "TextureGroup::TEXTUREGROUP_UI",
+      "Downscale": {
+        "bCooked": true,
+        "Default": 0.0,
+        "PerPlatform": null,
+        "Value": 0.0
+      },
+      "DownscaleOptions": "ETextureDownscaleOptions::Sharpen5"
+    },
+    "SizeX": 171,
+    "SizeY": 171,
+    "PackedData": 1,
+    "PixelFormat": "PF_BC7",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 29584,
+          "SizeOnDisk": 29584,
+          "OffsetInFile": "0x7C"
+        },
+        "SizeX": 171,
+        "SizeY": 171,
+        "SizeZ": 1
+      }
+    ]
+  }
+]
